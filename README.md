@@ -2,6 +2,10 @@
 
 A Quasar Project
 
+![Nov-30-2023 19-06-31](https://github.com/ari633/vue-quasar/assets/528036/362293f9-3bee-481b-a0cd-164225b6849e)
+
+Preview on [Codesandbox.io](https://codesandbox.io/p/github/ari633/vue-quasar/)
+
 ## Install the dependencies
 ```bash
 yarn
